@@ -9,4 +9,5 @@ On fruit dataset, you are required to prepare one notebook that can run on googl
 4) Save the final model and load again on the notebook. Perform inference on 3 new samples (fruit data captured from your phone).
 
 -- the model can be any model, custom or your own defined model
+
 -- the deliverables: one notebook containing all the codes, model file (.pt file) and inference images.
